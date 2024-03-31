@@ -1,0 +1,10 @@
+C:\Users\limji\source\repos\ArduinoGUI\ArduinoGUI\bin\Debug\ArduinoGUI.exe.config
+C:\Users\limji\source\repos\ArduinoGUI\ArduinoGUI\bin\Debug\ArduinoGUI.exe
+C:\Users\limji\source\repos\ArduinoGUI\ArduinoGUI\bin\Debug\ArduinoGUI.pdb
+C:\Users\limji\source\repos\ArduinoGUI\ArduinoGUI\obj\Debug\ArduinoGUI.csproj.AssemblyReference.cache
+C:\Users\limji\source\repos\ArduinoGUI\ArduinoGUI\obj\Debug\ArduinoGUI.Form1.resources
+C:\Users\limji\source\repos\ArduinoGUI\ArduinoGUI\obj\Debug\ArduinoGUI.Properties.Resources.resources
+C:\Users\limji\source\repos\ArduinoGUI\ArduinoGUI\obj\Debug\ArduinoGUI.csproj.GenerateResource.cache
+C:\Users\limji\source\repos\ArduinoGUI\ArduinoGUI\obj\Debug\ArduinoGUI.csproj.CoreCompileInputs.cache
+C:\Users\limji\source\repos\ArduinoGUI\ArduinoGUI\obj\Debug\ArduinoGUI.exe
+C:\Users\limji\source\repos\ArduinoGUI\ArduinoGUI\obj\Debug\ArduinoGUI.pdb
